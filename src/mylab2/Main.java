@@ -18,6 +18,7 @@ public class Main {
         b.addAlly(florges);
         b.addAlly(cryogonal);
 
+
         b.addFoe(flabebe);
         b.addFoe(floette);
         b.addFoe(arbok);
